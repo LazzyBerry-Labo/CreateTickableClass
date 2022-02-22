@@ -1,0 +1,2 @@
+# CreateTickableClass
+TickがないクラスにTickを設定するサンプル
