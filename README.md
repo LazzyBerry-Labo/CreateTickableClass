@@ -1,2 +1,5 @@
 # CreateTickableClass
 TickがないクラスにTickを設定するサンプル
+
+UTickableClassは、Tick毎にログを出力するクラス。
+UTickableObjectをもつActorが配置されているため、OutPutログにそのログが出力される。
